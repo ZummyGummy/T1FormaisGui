@@ -1,0 +1,15 @@
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\bin\Debug\t1FormaisGUI.exe.config
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI.csprojResolveAssemblyReference.cache
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\MainWindow.g.cs
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\App.g.cs
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI_MarkupCompile.cache
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI_MarkupCompile.lref
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI_Content.g.cs
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\bin\Debug\t1FormaisGUI.exe
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\bin\Debug\t1FormaisGUI.pdb
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\MainWindow.baml
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI.g.resources
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI.Properties.Resources.resources
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI.csproj.GenerateResource.Cache
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI.exe
+C:\Users\bruno_000\Documents\ModelSim\t1FormaisGUI\t1FormaisGUI\obj\Debug\t1FormaisGUI.pdb
